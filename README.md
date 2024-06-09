@@ -26,8 +26,3 @@
 - Users can add tweets with/without images.
 - Users can like/unlike tweets.
 - Users can follow others.
-
-## Work in progress
-- Comment on tweets.
-- Edit profile.
-- Sign in without google.
